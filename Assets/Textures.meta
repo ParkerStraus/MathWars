@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/Textures.meta
 guid: 058f535205b166846a45fb996ec24a8c
+=======
+guid: 6ed0c32c7fe86094ea13ca9619796097
+>>>>>>> Stashed changes:Assets/Animation.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

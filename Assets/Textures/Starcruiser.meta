@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: 55ff908cd86aaad488f870f307ba0196
+<<<<<<< Updated upstream:Assets/Textures/Starcruiser.meta
+guid: bbbe092316f8e9b4d8d225a72a422f60
+=======
+guid: fa7b93008cf5c28418c01e1421c2ea64
+>>>>>>> Stashed changes:Assets/OldStuff.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
