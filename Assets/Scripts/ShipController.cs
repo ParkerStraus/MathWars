@@ -23,6 +23,7 @@ public class ShipController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        FireTimer = FireLimit;
         ship = GetComponent<Rigidbody2D>();
         animation = GetComponent<Animation>();
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -78,9 +79,12 @@ public class ShipController : MonoBehaviour
     void BulletFire()
     {
         FireTimer += Time.deltaTime;
-        if (Input.GetKeyDown("space") && FireTimer > FireLimit)
+        int value;
+        if (Input.GetKeyDown("space") && FireTimer > FireLimit && gh.GetComponent<GameHandler>().CheckNumberReady())
         {
-            Instantiate(bullet, BulletSpawnPoint.position, Quaternion.Euler(Vector3.zero));
+            value = int.Parse(gh.GetComponent<GameHandler>().GetMathNum());
+            GameObject Shot = Instantiate(bullet, BulletSpawnPoint.position, Quaternion.Euler(Vector3.zero));
+            Shot.GetComponent<ShipBlast>().Value = value;
             FireTimer = 0;
         }
     }
