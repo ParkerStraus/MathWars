@@ -45,15 +45,15 @@ public class ShipController : MonoBehaviour
     void MovementHandler()
     {
         
-        if ((Input.GetKey("left") && Input.GetKey("right")))
+        if ((Input.GetAxis("Horizontal") == 0))
         {
             ShipTarVelocity = 0;
         }
-        else if (Input.GetKey("left"))
+        else if (Input.GetAxis("Horizontal") < 0)
         {
             ShipTarVelocity = -1;
         }
-        else if (Input.GetKey("right"))
+        else if (Input.GetAxis("Horizontal") > 0)
         {
             ShipTarVelocity = 1;
         }

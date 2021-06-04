@@ -11,5 +11,9 @@ public class ShipBlast : MonoBehaviour
     void Update()
     {
         transform.position += (Movespeed * Time.deltaTime)*Vector3.up;
+        if (!GetComponent<Renderer>().isVisible)
+        {
+            Destroy(gameObject);
+        }
     }
 }

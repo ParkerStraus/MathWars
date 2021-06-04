@@ -1,0 +1,3704 @@
+fileFormatVersion: 2
+guid: 2af2e22472feb27449eb34dfc0d9a33c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7540115073492411849
+    second: station2_0
+  - first:
+      213: -6747322274058660688
+    second: station2_1
+  - first:
+      213: -2801418181026193956
+    second: station2_2
+  - first:
+      213: 1079413294736658079
+    second: station2_3
+  - first:
+      213: -1000747566001751546
+    second: station2_4
+  - first:
+      213: -1635635250247340711
+    second: station2_5
+  - first:
+      213: 996571364637689433
+    second: station2_6
+  - first:
+      213: 6383235356730246337
+    second: station2_7
+  - first:
+      213: 1978802884144889566
+    second: station2_8
+  - first:
+      213: -3291299323930223168
+    second: station2_9
+  - first:
+      213: -151580393679577059
+    second: station2_10
+  - first:
+      213: -5312769135390660731
+    second: station2_11
+  - first:
+      213: 5673308451462539281
+    second: station2_12
+  - first:
+      213: -5573147295066898668
+    second: station2_13
+  - first:
+      213: 9215200397099491783
+    second: station2_14
+  - first:
+      213: 9149523501505264501
+    second: station2_15
+  - first:
+      213: 9096387868690693977
+    second: station2_16
+  - first:
+      213: 5086985480101019732
+    second: station2_17
+  - first:
+      213: -3579400365626426031
+    second: station2_18
+  - first:
+      213: -2793882606616450012
+    second: station2_19
+  - first:
+      213: 1217185727200084434
+    second: station2_20
+  - first:
+      213: 5614500654686811040
+    second: station2_21
+  - first:
+      213: -1258240777924452566
+    second: station2_22
+  - first:
+      213: -202339336386219896
+    second: station2_23
+  - first:
+      213: -3689935672761521575
+    second: station2_24
+  - first:
+      213: 6902009200022355850
+    second: station2_25
+  - first:
+      213: 7160847548847930075
+    second: station2_26
+  - first:
+      213: 2100115852925976039
+    second: station2_27
+  - first:
+      213: 398264068269764239
+    second: station2_28
+  - first:
+      213: 7387982645979744797
+    second: station2_29
+  - first:
+      213: -143963976558632887
+    second: station2_30
+  - first:
+      213: 543987603655459202
+    second: station2_31
+  - first:
+      213: -592017262074905949
+    second: station2_32
+  - first:
+      213: -6391279090135965230
+    second: station2_33
+  - first:
+      213: 7255745559077162764
+    second: station2_34
+  - first:
+      213: -8881896349815795806
+    second: station2_35
+  - first:
+      213: 4605731357782720956
+    second: station2_36
+  - first:
+      213: 5422009486060477078
+    second: station2_37
+  - first:
+      213: -1011236988087931778
+    second: station2_38
+  - first:
+      213: -8254106703041629299
+    second: station2_39
+  - first:
+      213: -3629416544943570101
+    second: station2_40
+  - first:
+      213: 4170669325274235182
+    second: station2_41
+  - first:
+      213: -834880958787567067
+    second: station2_42
+  - first:
+      213: -4143571943404179407
+    second: station2_43
+  - first:
+      213: -5003529346510565822
+    second: station2_44
+  - first:
+      213: 412040642581802328
+    second: station2_45
+  - first:
+      213: -8287649743136784970
+    second: station2_46
+  - first:
+      213: 2782280566560147547
+    second: station2_47
+  - first:
+      213: 1160081009039918610
+    second: station2_48
+  - first:
+      213: 3877567228199325863
+    second: station2_49
+  - first:
+      213: 7452681554368525893
+    second: station2_50
+  - first:
+      213: -832578286611905562
+    second: station2_51
+  - first:
+      213: -6159848290793437076
+    second: station2_52
+  - first:
+      213: -5763993232195775202
+    second: station2_53
+  - first:
+      213: 6559662802011696325
+    second: station2_54
+  - first:
+      213: -7208291964415058437
+    second: station2_55
+  - first:
+      213: 864725018238066303
+    second: station2_56
+  - first:
+      213: -3403246998677049993
+    second: station2_57
+  - first:
+      213: 6439623468412439076
+    second: station2_58
+  - first:
+      213: 7282509260436321867
+    second: station2_59
+  - first:
+      213: 2115188193562301961
+    second: station2_60
+  - first:
+      213: 4971764486461511611
+    second: station2_61
+  - first:
+      213: 9161315187008308998
+    second: station2_62
+  - first:
+      213: -8931673122790188179
+    second: station2_63
+  - first:
+      213: -2779904203004620538
+    second: station2_64
+  - first:
+      213: 62346683492577392
+    second: station2_65
+  - first:
+      213: -7228980941028061468
+    second: station2_66
+  - first:
+      213: 1976185764218879203
+    second: station2_67
+  - first:
+      213: 7612342912066738342
+    second: station2_68
+  - first:
+      213: -558414437587815011
+    second: station2_69
+  - first:
+      213: -5612352281045184116
+    second: station2_70
+  - first:
+      213: -5503295837495533405
+    second: station2_71
+  - first:
+      213: 3634334913267444833
+    second: station2_72
+  - first:
+      213: 8627658109412718312
+    second: station2_73
+  - first:
+      213: 5976273361334558816
+    second: station2_74
+  - first:
+      213: 6188383916962888055
+    second: station2_75
+  - first:
+      213: 1800703906500749554
+    second: station2_76
+  - first:
+      213: -4502023519550762654
+    second: station2_77
+  - first:
+      213: -1012339192351580439
+    second: station2_78
+  - first:
+      213: 3617163107818900418
+    second: station2_79
+  - first:
+      213: 389697463779546676
+    second: station2_80
+  - first:
+      213: -6751885984835563772
+    second: station2_81
+  - first:
+      213: 1447410770123303379
+    second: station2_82
+  - first:
+      213: -6479754477257463131
+    second: station2_83
+  - first:
+      213: -1322884196777159283
+    second: station2_84
+  - first:
+      213: 6923442928721617524
+    second: station2_85
+  - first:
+      213: 3263079559783383045
+    second: station2_86
+  - first:
+      213: 8227867320317274898
+    second: station2_87
+  - first:
+      213: 2871127778343948288
+    second: station2_88
+  - first:
+      213: -1182005179573772264
+    second: station2_89
+  - first:
+      213: -8135143727802825112
+    second: station2_90
+  - first:
+      213: 6169210367851843126
+    second: station2_91
+  - first:
+      213: 1101388226685349575
+    second: station2_92
+  - first:
+      213: -4522487981647065037
+    second: station2_93
+  - first:
+      213: -8588567304540341847
+    second: station2_94
+  - first:
+      213: 1270867518035773295
+    second: station2_95
+  - first:
+      213: -706776948745418566
+    second: station2_96
+  - first:
+      213: -7622959420189949729
+    second: station2_97
+  - first:
+      213: -4304631848083097639
+    second: station2_98
+  - first:
+      213: 7593674516169624588
+    second: station2_99
+  - first:
+      213: -5723527530422416028
+    second: station2_100
+  - first:
+      213: 1283225406461377821
+    second: station2_101
+  - first:
+      213: 6704311064406478413
+    second: station2_102
+  - first:
+      213: 9204160254411186578
+    second: station2_103
+  - first:
+      213: -4289065256267568524
+    second: station2_104
+  - first:
+      213: 1010670027231710560
+    second: station2_105
+  - first:
+      213: 4982873283499122286
+    second: station2_106
+  - first:
+      213: 8951106214400794638
+    second: station2_107
+  - first:
+      213: -6208700366550534181
+    second: station2_108
+  - first:
+      213: -3471568311134193622
+    second: station2_109
+  - first:
+      213: -1723184482808336758
+    second: station2_110
+  - first:
+      213: 4391748902763536564
+    second: station2_111
+  - first:
+      213: -5783213443804153249
+    second: station2_112
+  - first:
+      213: 8762658662106407512
+    second: station2_113
+  - first:
+      213: 3829587730898151425
+    second: station2_114
+  - first:
+      213: -1362074518477516074
+    second: station2_115
+  - first:
+      213: 6962110113388823601
+    second: station2_116
+  - first:
+      213: -7625604460464717334
+    second: station2_117
+  - first:
+      213: -3804444886058201296
+    second: station2_118
+  - first:
+      213: -2679533795113946047
+    second: station2_119
+  - first:
+      213: 5937885238590069170
+    second: station2_120
+  - first:
+      213: -1755627905014557172
+    second: station2_121
+  - first:
+      213: -5291316806165388311
+    second: station2_122
+  - first:
+      213: 2586699499556642149
+    second: station2_123
+  - first:
+      213: -2283677924857797428
+    second: station2_124
+  - first:
+      213: -5014165759508746864
+    second: station2_125
+  - first:
+      213: 8765995747242969831
+    second: station2_126
+  - first:
+      213: 1300590242627006251
+    second: station2_127
+  - first:
+      213: 3813567210158001734
+    second: station2_128
+  - first:
+      213: -5710941812994383741
+    second: station2_129
+  - first:
+      213: 21932852297258559
+    second: station2_130
+  - first:
+      213: 5780664079765193306
+    second: station2_131
+  - first:
+      213: -2704929183187997914
+    second: station2_132
+  - first:
+      213: 5342678210796517013
+    second: station2_133
+  - first:
+      213: -2302127658895965772
+    second: station2_134
+  - first:
+      213: 7319119477780945832
+    second: station2_135
+  - first:
+      213: -8078748188197215167
+    second: station2_136
+  - first:
+      213: -2130609769105702947
+    second: station2_137
+  - first:
+      213: -3234366045069188546
+    second: station2_138
+  - first:
+      213: 3390025078620555733
+    second: station2_139
+  - first:
+      213: 3143090983981606492
+    second: station2_140
+  - first:
+      213: 8121767203304323670
+    second: station2_141
+  - first:
+      213: -2858318771778261628
+    second: station2_142
+  - first:
+      213: -4955489097150800250
+    second: station2_143
+  - first:
+      213: 8017529155514837463
+    second: station2_144
+  - first:
+      213: 6214379263383407979
+    second: station2_145
+  - first:
+      213: 5959704634493497528
+    second: station2_146
+  - first:
+      213: -3685582599502258207
+    second: station2_147
+  - first:
+      213: -7736493735967942427
+    second: station2_148
+  - first:
+      213: -3646934030371304925
+    second: station2_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: station2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a9ae63a412c5790800000000000000
+      internalID: -7540115073492411849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b417adf322bc52a0800000000000000
+      internalID: -6747322274058660688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdddc94c10d5f19d0800000000000000
+      internalID: -2801418181026193956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ecc9e2ca8dafe00800000000000000
+      internalID: 1079413294736658079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60af0a21461ac12f0800000000000000
+      internalID: -1000747566001751546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_5
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d66e6e76e0d49e0800000000000000
+      internalID: -1635635250247340711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_6
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9564e86406884dd00800000000000000
+      internalID: 996571364637689433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_7
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4ce93bcbec59850800000000000000
+      internalID: 6383235356730246337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede79fd2dbe167b10800000000000000
+      internalID: 1978802884144889566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_9
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd7a3f3b4f252d0800000000000000
+      internalID: -3291299323930223168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_10
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a0df5f6a75edf0800000000000000
+      internalID: -151580393679577059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_11
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587616f9e904546b0800000000000000
+      internalID: -5312769135390660731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_12
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11865a66af3abbe40800000000000000
+      internalID: 5673308451462539281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_13
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fbb9c101438a2b0800000000000000
+      internalID: -5573147295066898668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_14
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 3753
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1672bdfe7f2ef70800000000000000
+      internalID: 9215200397099491783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3f4bf523a9fe70800000000000000
+      internalID: 9149523501505264501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3b74629cdc3e70800000000000000
+      internalID: 9096387868690693977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_17
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450cdf6975a989640800000000000000
+      internalID: 5086985480101019732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_18
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dfee9f45a635ec0800000000000000
+      internalID: -3579400365626426031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_19
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ceb7862922a39d0800000000000000
+      internalID: -2793882606616450012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_20
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1cf6f48ff44e010800000000000000
+      internalID: 1217185727200084434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_21
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33ec93996baed40800000000000000
+      internalID: 5614500654686811040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_22
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fd6edcda4d98ee0800000000000000
+      internalID: -1258240777924452566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_23
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8807c921275213df0800000000000000
+      internalID: -202339336386219896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_24
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae1054e07baccc0800000000000000
+      internalID: -3689935672761521575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_25
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7fcb8cccd8cf50800000000000000
+      internalID: 6902009200022355850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_26
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdabec7e7e0706360800000000000000
+      internalID: 7160847548847930075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_27
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb1d8cd3c152d10800000000000000
+      internalID: 2100115852925976039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_28
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e650c5f0be68500800000000000000
+      internalID: 398264068269764239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_29
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 3336
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8f54c213678660800000000000000
+      internalID: 7387982645979744797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94025cca689800ef0800000000000000
+      internalID: -143963976558632887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2818916e7d1ac8700800000000000000
+      internalID: 543987603655459202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_32
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3021df6bb8c7f0800000000000000
+      internalID: -592017262074905949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_33
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1601ca78d9d47a0800000000000000
+      internalID: -6391279090135965230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_34
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f8965b42691b460800000000000000
+      internalID: 7255745559077162764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_35
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0461045a2db480800000000000000
+      internalID: -8881896349815795806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_36
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb144878448daef30800000000000000
+      internalID: 4605731357782720956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_37
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ade6986e8de3b40800000000000000
+      internalID: 5422009486060477078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_38
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c684d215d57f1f0800000000000000
+      internalID: -1011236988087931778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_39
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83780b8fa5837d80800000000000000
+      internalID: -8254106703041629299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_40
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4386b0c1e8b1adc0800000000000000
+      internalID: -3629416544943570101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_41
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21c69877a131e930800000000000000
+      internalID: 4170669325274235182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_42
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522cabdf038e964f0800000000000000
+      internalID: -834880958787567067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_43
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1307e1465431f76c0800000000000000
+      internalID: -4143571943404179407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_44
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 2919
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ecef5b194ef8ab0800000000000000
+      internalID: -5003529346510565822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dac1608ccd7b500800000000000000
+      internalID: 412040642581802328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd797de77a5cfc80800000000000000
+      internalID: -8287649743136784970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_47
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b584a432f65ac9620800000000000000
+      internalID: 2782280566560147547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_48
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2164086088f691010800000000000000
+      internalID: 1160081009039918610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_49
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0548d89d2efc530800000000000000
+      internalID: 3877567228199325863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_50
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546fd30436e3d6760800000000000000
+      internalID: 7452681554368525893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_51
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e34bc2a5761274f0800000000000000
+      internalID: -832578286611905562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_52
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68c5f4ad92d38aa0800000000000000
+      internalID: -6159848290793437076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_53
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15173bb1be2200b0800000000000000
+      internalID: -5763993232195775202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_54
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc2048509a980b50800000000000000
+      internalID: 6559662802011696325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_55
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfddcb746a007fb90800000000000000
+      internalID: -7208291964415058437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_56
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e197492de100c00800000000000000
+      internalID: 864725018238066303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_57
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77da0f8c2ec35c0d0800000000000000
+      internalID: -3403246998677049993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_58
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a0ef90d632e5950800000000000000
+      internalID: 6439623468412439076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_59
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 2502
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46bcc5869ba01560800000000000000
+      internalID: 7282509260436321867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906916e8478aa5d10800000000000000
+      internalID: 2115188193562301961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_61
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d07a75714ff440800000000000000
+      internalID: 4971764486461511611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_62
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6078505bf97832f70800000000000000
+      internalID: 9161315187008308998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_63
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bdf2aed925c0480800000000000000
+      internalID: -8931673122790188179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_64
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015b4e1bdbcb69d0800000000000000
+      internalID: -2779904203004620538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_65
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070bf727aff7dd000800000000000000
+      internalID: 62346683492577392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_66
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee04f982208dab90800000000000000
+      internalID: -7228980941028061468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_67
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec33767b72dc6b10800000000000000
+      internalID: 1976185764218879203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_68
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8533eeb8974a960800000000000000
+      internalID: 7612342912066738342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_69
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95f022170d1048f0800000000000000
+      internalID: -558414437587815011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_70
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d2fdf55bec12b0800000000000000
+      internalID: -5612352281045184116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_71
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a06130f79d50a3b0800000000000000
+      internalID: -5503295837495533405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_72
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c2b1c1950cf6230800000000000000
+      internalID: 3634334913267444833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_73
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e63017d6599bb770800000000000000
+      internalID: 8627658109412718312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_74
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 2085
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060e9fe55fcffe250800000000000000
+      internalID: 5976273361334558816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7793050926e81e550800000000000000
+      internalID: 6188383916962888055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_76
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a2a499a26df810800000000000000
+      internalID: 1800703906500749554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_77
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26119b236799581c0800000000000000
+      internalID: -4502023519550762654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_78
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee9daf3ed273f1f0800000000000000
+      internalID: -1012339192351580439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_79
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb81389eaeb23230800000000000000
+      internalID: 3617163107818900418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_80
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436537257cb786500800000000000000
+      internalID: 389697463779546676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_81
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f00f5487b7c42a0800000000000000
+      internalID: -6751885984835563772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_82
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9264d3d6c361410800000000000000
+      internalID: 1447410770123303379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_83
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa625752a94316a0800000000000000
+      internalID: -6479754477257463131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_84
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d859e1cf4db24ade0800000000000000
+      internalID: -1322884196777159283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_85
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472642569a2051060800000000000000
+      internalID: 6923442928721617524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_86
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5000ab23299c84d20800000000000000
+      internalID: 3263079559783383045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_87
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b6e861cb14f2270800000000000000
+      internalID: 8227867320317274898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_88
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00092f4a08b48d720800000000000000
+      internalID: 2871127778343948288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_89
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 1668
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81065dc3d8ca89fe0800000000000000
+      internalID: -1182005179573772264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866c093a1e92a1f80800000000000000
+      internalID: -8135143727802825112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_91
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e4778c4207d9550800000000000000
+      internalID: 6169210367851843126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_92
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cea06bb1cae84f00800000000000000
+      internalID: 1101388226685349575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_93
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33014f05425ec31c0800000000000000
+      internalID: -4522487981647065037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_94
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b65b6a874fc880800000000000000
+      internalID: -8588567304540341847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_95
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67ca19364703a110800000000000000
+      internalID: 1270867518035773295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_96
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8489a1c160136f0800000000000000
+      internalID: -706776948745418566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_97
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd04c56abcec53690800000000000000
+      internalID: -7622959420189949729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_98
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d77c2e1420e244c0800000000000000
+      internalID: -4304631848083097639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_99
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c0a3c4db6226960800000000000000
+      internalID: 7593674516169624588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_100
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc00f1902f190b0800000000000000
+      internalID: -5723527530422416028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_101
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df2e655beeec110800000000000000
+      internalID: 1283225406461377821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_102
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e4ba1646f7a0d50800000000000000
+      internalID: 6704311064406478413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_103
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291a2f35cfebbbf70800000000000000
+      internalID: 9204160254411186578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_104
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 1251
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aa3b5bfdd2a74c0800000000000000
+      internalID: -4289065256267568524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc746f80f960e00800000000000000
+      internalID: 1010670027231710560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_106
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6edfb7d9d8b62540800000000000000
+      internalID: 4982873283499122286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_107
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a6205da7b83c70800000000000000
+      internalID: 8951106214400794638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_108
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7fae669e346d9a0800000000000000
+      internalID: -6208700366550534181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_109
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f751a30382dfc0800000000000000
+      internalID: -3471568311134193622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_110
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e6ebbb7d40618e0800000000000000
+      internalID: -1723184482808336758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_111
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0aeebcb50a2fc30800000000000000
+      internalID: 4391748902763536564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_112
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a3acd7306edbfa0800000000000000
+      internalID: -5783213443804153249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_113
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522ada60a73b9970800000000000000
+      internalID: 8762658662106407512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_114
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e06050cd652530800000000000000
+      internalID: 3829587730898151425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_115
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d259882170f81de0800000000000000
+      internalID: -1362074518477516074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_116
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13402b3e2426e9060800000000000000
+      internalID: 6962110113388823601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_117
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1cd5835296c2690800000000000000
+      internalID: -7625604460464717334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_118
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f03fe6885e33bc0800000000000000
+      internalID: -3804444886058201296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_119
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 834
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144349ac53260dad0800000000000000
+      internalID: -2679533795113946047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9523b0a2b976250800000000000000
+      internalID: 5937885238590069170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_121
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0618dbd8b1c2a7e0800000000000000
+      internalID: -1755627905014557172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_122
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3257e36677196b0800000000000000
+      internalID: -5291316806165388311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_123
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d11cb6d7dc5e320800000000000000
+      internalID: 2586699499556642149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_124
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4237bd60fbe40e0800000000000000
+      internalID: -2283677924857797428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_125
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ded83deca1a6ab0800000000000000
+      internalID: -5014165759508746864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_126
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea800910b217a970800000000000000
+      internalID: 8765995747242969831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_127
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f2f125fef9c0210800000000000000
+      internalID: 1300590242627006251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_128
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e8b882c238ce430800000000000000
+      internalID: 3813567210158001734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_129
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3806b8fcda8aeb0b0800000000000000
+      internalID: -5710941812994383741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_130
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36d61e10dbed4000800000000000000
+      internalID: 21932852297258559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_131
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52c3407a5b093050800000000000000
+      internalID: 5780664079765193306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_132
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bed7d3d39267ad0800000000000000
+      internalID: -2704929183187997914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_133
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596feb7a681052a40800000000000000
+      internalID: 5342678210796517013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_134
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 417
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b187e767133d00e0800000000000000
+      internalID: -2302127658895965772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab96cdf26cb29560800000000000000
+      internalID: 7319119477780945832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_136
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144acac635582ef80800000000000000
+      internalID: -8078748188197215167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_137
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf3a7514bd8e62e0800000000000000
+      internalID: -2130609769105702947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_138
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e01ae7393d13d0800000000000000
+      internalID: -3234366045069188546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_139
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d908de09d9cb0f20800000000000000
+      internalID: 3390025078620555733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_140
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56e4fcd8908e9b20800000000000000
+      internalID: 3143090983981606492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_141
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a3f5d8d3056b070800000000000000
+      internalID: 8121767203304323670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_142
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d635998363558d0800000000000000
+      internalID: -2858318771778261628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_143
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e5104ebe09a3bb0800000000000000
+      internalID: -4955489097150800250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_144
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9accac94cf34f60800000000000000
+      internalID: 8017529155514837463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_145
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d858dc309ed3650800000000000000
+      internalID: 6214379263383407979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_146
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0fb390acf15b250800000000000000
+      internalID: 5959704634493497528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_147
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef9e4e172e2adcc0800000000000000
+      internalID: -3685582599502258207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_148
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e89894dfe372a490800000000000000
+      internalID: -7736493735967942427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: station2_149
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 0
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a4f6852dc736dc0800000000000000
+      internalID: -3646934030371304925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
