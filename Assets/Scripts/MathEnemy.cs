@@ -10,6 +10,8 @@ public class MathEnemy : MonoBehaviour
     [SerializeField] private int Num2;
     [SerializeField] private int Ans;
     [SerializeField] private TextMeshPro text;
+    [SerializeField] private GameObject HandlerObject;
+    [SerializeField] private int pointvalue;
 
     void Start()
     {
@@ -44,10 +46,12 @@ public class MathEnemy : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         int value = collision.GetComponent<ShipBlast>().Value;
-        if(Ans == value)
+        collision.GetComponent<ShipBlast>().Kill();
+        if (Ans == value)
         {
             Debug.Log("Collided with " + collision.ToString());
             Destroy(gameObject, 0.25f);
+            HandlerObject.GetComponent<GameHandler>().MathEnemykilled(pointvalue);
         }
     }
 

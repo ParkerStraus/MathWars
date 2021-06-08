@@ -16,4 +16,8 @@ public class ShipBlast : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    public void Kill()
+    {
+        Destroy(gameObject);
+    }
 }

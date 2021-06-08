@@ -8,6 +8,7 @@ public class GameHandler : MonoBehaviour
     [SerializeField] private string CurrentNum;
     [SerializeField] private TextMeshProUGUI numText;
     [SerializeField] private bool numberReady = false;
+    [SerializeField] private int Killcount = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -89,8 +90,18 @@ public class GameHandler : MonoBehaviour
         }
     }
 
+    public void MathEnemykilled(int points)
+    {
+        Killcount++;
+    }
+
     public bool CheckNumberReady()
     {
         return numberReady;
+    }
+
+    public void EndGame()
+    {
+        Debug.Log("You fiddled the riddle");
     }
 }
