@@ -104,4 +104,8 @@ public class GameHandler : MonoBehaviour
     {
         Debug.Log("You fiddled the riddle");
     }
+    public void Backup(float leftdis, float rightdis)
+    {
+       
+    }
 }

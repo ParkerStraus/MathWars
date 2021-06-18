@@ -20,6 +20,8 @@ public class ShipController : MonoBehaviour
     public double FireLimit;
     [SerializeField] private double FireTimer;
     [SerializeField] private Animation animation;
+    [SerializeField] private GameObject[] rays;
+    [SerializeField] private float BackupDistance;
     // Start is called before the first frame update
     void Start()
     {
@@ -35,6 +37,7 @@ public class ShipController : MonoBehaviour
         MovementHandler();
         MoveAnimHandler();
         BulletFire();
+        PositionDetection();
     }
 
     void FixedUpdate()
@@ -86,6 +89,20 @@ public class ShipController : MonoBehaviour
             GameObject Shot = Instantiate(bullet, BulletSpawnPoint.position, Quaternion.Euler(Vector3.zero));
             Shot.GetComponent<ShipBlast>().Value = value;
             FireTimer = 0;
+        }
+    }
+    
+    void PositionDetection()
+    {
+        Debug.LogError("runningshit");
+        Debug.DrawRay(rays[0].transform.position, Vector2.up, Color.red);
+        Debug.DrawRay(rays[1].transform.position, Vector2.up, Color.green);
+        RaycastHit2D Left, Right;
+        Left = Physics2D.Raycast(rays[0].transform.position, Vector2.up);
+        Right = Physics2D.Raycast(rays[1].transform.position, Vector2.up);
+        if(Left.distance < BackupDistance && Right.distance < BackupDistance)
+        {
+
         }
     }
 }
