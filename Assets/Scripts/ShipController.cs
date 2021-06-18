@@ -102,7 +102,7 @@ public class ShipController : MonoBehaviour
         Right = Physics2D.Raycast(rays[1].transform.position, Vector2.up);
         if(Left.distance < BackupDistance && Right.distance < BackupDistance)
         {
-
+            gh.GetComponent<GameHandler>().Backup(BackupDistance-Left.distance, BackupDistance-Right.distance);
         }
     }
 }
