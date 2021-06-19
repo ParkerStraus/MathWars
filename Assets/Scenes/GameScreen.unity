@@ -1025,6 +1025,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ScrollSpeed: 0.45
+  Distance: 0
+  BackupActive: 0
 --- !u!1 &474966997
 GameObject:
   m_ObjectHideFlags: 0
@@ -1091,6 +1093,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ScrollSpeed: 0.51
+  Distance: 0
+  BackupActive: 0
 --- !u!1 &616127100
 GameObject:
   m_ObjectHideFlags: 0
@@ -6308,7 +6312,7 @@ MonoBehaviour:
   rays:
   - {fileID: 164322217}
   - {fileID: 282472932}
-  BackupDistance: 0
+  BackupDistance: 1.59
 --- !u!61 &1261232670
 BoxCollider2D:
   m_ObjectHideFlags: 0

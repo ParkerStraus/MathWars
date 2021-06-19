@@ -94,15 +94,20 @@ public class ShipController : MonoBehaviour
     
     void PositionDetection()
     {
-        Debug.LogError("runningshit");
+        Debug.Log("runningshit");
         Debug.DrawRay(rays[0].transform.position, Vector2.up, Color.red);
         Debug.DrawRay(rays[1].transform.position, Vector2.up, Color.green);
-        RaycastHit2D Left, Right;
+        RaycastHit2D Left, Right, Mid;
         Left = Physics2D.Raycast(rays[0].transform.position, Vector2.up);
         Right = Physics2D.Raycast(rays[1].transform.position, Vector2.up);
-        if(Left.distance < BackupDistance && Right.distance < BackupDistance)
+        Mid = Physics2D.Raycast(rays[1].transform.position, Vector2.up);
+        if (Left.distance < BackupDistance || Right.distance < BackupDistance || Mid.distance < BackupDistance)
         {
-            gh.GetComponent<GameHandler>().Backup(BackupDistance-Left.distance, BackupDistance-Right.distance);
+            gh.GetComponent<AutoScroll>().Backup(BackupDistance-Left.distance, BackupDistance-Right.distance, BackupDistance-Mid.distance);
+        }
+        else
+        {
+            gh.GetComponent<AutoScroll>().BackupReset();
         }
     }
 }
