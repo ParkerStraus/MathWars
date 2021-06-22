@@ -26,7 +26,7 @@ public class AutoScroll : MonoBehaviour
 
     public void Backup(float leftdis, float rightdis, float middis)
     {
-        if (leftdis > 0|| rightdis > 0||middis>0)
+        if (leftdis > 0|| rightdis > 0||middis > 0)
         {
             BackupActive = true;
             transform.position += Vector3.down * ScrollSpeed * Time.deltaTime;
