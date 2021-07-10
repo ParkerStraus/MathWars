@@ -45,13 +45,16 @@ public class MathEnemy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        int value = collision.GetComponent<ShipBlast>().Value;
-        collision.GetComponent<ShipBlast>().Kill();
-        if (Ans == value)
+        if (collision.tag == "Bullet")
         {
-            Debug.Log("Collided with " + collision.ToString());
-            Destroy(gameObject, 0.25f);
-            HandlerObject.GetComponent<GameHandler>().MathEnemykilled(pointvalue);
+            int value = collision.GetComponent<ShipBlast>().Value;
+            collision.GetComponent<ShipBlast>().Kill();
+            if (Ans == value)
+            {
+                Debug.Log("Collided with " + collision.ToString());
+                Destroy(gameObject, 0.25f);
+                HandlerObject.GetComponent<GameHandler>().MathEnemykilled(pointvalue);
+            }
         }
     }
 

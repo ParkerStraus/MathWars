@@ -97,7 +97,7 @@ public class ShipController : MonoBehaviour
         Debug.DrawRay(rays[0].transform.position, Vector2.up, Color.red);
         Debug.DrawRay(rays[1].transform.position, Vector2.up, Color.green);
         Debug.DrawRay(rays[2].transform.position, Vector2.up, Color.white);
-        RaycastHit2D Left, Right, Mid;
+        /*RaycastHit2D Left, Right, Mid;
         Left = Physics2D.Raycast(rays[0].transform.position, Vector2.up, BackupDistance);
         Right = Physics2D.Raycast(rays[1].transform.position, Vector2.up, BackupDistance);
         Mid = Physics2D.Raycast(rays[2].transform.position, Vector2.up, BackupDistance);
@@ -105,8 +105,37 @@ public class ShipController : MonoBehaviour
         {
             if (Left.distance < BackupDistance || Right.distance < BackupDistance || Mid.distance < BackupDistance)
             {
-                gh.GetComponent<AutoScroll>().Backup(Left.distance, Right.distance, Mid.distance);
-                Debug.Log("runningshit " + Left.distance + " " + Right.distance + " " + Mid.distance);
+                bool BulletSensed = false;
+                if (Left.transform.tag == "Bullet")
+                {
+                    BulletSensed = true;
+                }
+                else if (Right.transform.tag == "Bullet")
+                {
+                    BulletSensed = true;
+                }
+                else if (Mid.transform.tag == "Bullet")
+                {
+                    BulletSensed = true;
+                }
+
+                if (!BulletSensed)
+                {
+                    gh.GetComponent<AutoScroll>().Backup(Left.distance, Right.distance, Mid.distance);
+                    Debug.Log("runningshit " + Left.distance + " " + Right.distance + " " + Mid.distance);
+                }
+            }
+        }*/
+        RaycastHit2D hit;
+        hit = Physics2D.BoxCast(rays[1].transform.position, new Vector2(this.gameObject.GetComponent<BoxCollider2D>().size.x, 0.01f), 0.0f, Vector2.up,RayDist);
+
+        if (hit.collider != null)
+        {
+            Debug.Log("now sensing " + hit.collider.name+ " .... runningshit " + hit.distance);
+
+            if (hit.distance < BackupDistance)
+            {
+                    gh.GetComponent<AutoScroll>().Backup(hit.distance);
             }
         }
         else
