@@ -9,15 +9,21 @@ public class GameHandler : MonoBehaviour
     [SerializeField] private TextMeshProUGUI numText;
     [SerializeField] private bool numberReady = false;
     [SerializeField] private int Killcount = 0;
+    [SerializeField] private bool Paused;
+    [SerializeField] private bool GameFinished = false;
     // Start is called before the first frame update
     void Start()
     {
-        
+        Paused = gameObject.GetComponent<PauseScript>().GetStatus();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetButtonDown("Cancel"))
+        {
+            gameObject.GetComponent<PauseScript>().PauseHandler();
+        }
         if (Input.GetKeyDown(KeyCode.Alpha0) || Input.GetKeyDown(KeyCode.Keypad0))
         {
             CurrentNum += "0";
@@ -102,6 +108,30 @@ public class GameHandler : MonoBehaviour
 
     public void EndGame()
     {
+        GameFinished = true;
         Debug.Log("You fiddled the riddle");
+    }
+
+    public void SetPaused(bool pause)
+    {
+        Paused = pause;
+    }
+
+    public bool AmIInGame()
+    {
+        if (GameFinished)
+        {
+            return false;
+        }
+        if (Paused)
+        {
+            return false;
+        }
+        else return true;
+    }
+
+    public bool AmIFinished()
+    {
+        return GameFinished;
     }
 }

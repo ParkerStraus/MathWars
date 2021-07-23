@@ -34,10 +34,13 @@ public class ShipController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        MovementHandler();
-        MoveAnimHandler();
-        BulletFire();
-        PositionDetection();
+        if (gh.GetComponent<GameHandler>().AmIInGame())
+        {
+            MovementHandler();
+            MoveAnimHandler();
+            BulletFire();
+            PositionDetection();
+        }
     }
 
     void FixedUpdate()
