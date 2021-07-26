@@ -9,6 +9,7 @@ public class GameHandler : MonoBehaviour
     [SerializeField] private TextMeshProUGUI numText;
     [SerializeField] private bool numberReady = false;
     [SerializeField] private int Killcount = 0;
+    [SerializeField] private int Score;
     [SerializeField] private bool Paused;
     [SerializeField] private bool GameFinished = false;
     // Start is called before the first frame update
@@ -99,6 +100,7 @@ public class GameHandler : MonoBehaviour
     public void MathEnemykilled(int points)
     {
         Killcount++;
+        Score += points;
     }
 
     public bool CheckNumberReady()
