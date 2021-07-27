@@ -1,0 +1,1256 @@
+fileFormatVersion: 2
+guid: bfe950d93469e294f9cc06cfbb41db74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2815922005362142073
+    second: hubble_0
+  - first:
+      213: 8479684951560108257
+    second: hubble_1
+  - first:
+      213: 7189093306329719787
+    second: hubble_2
+  - first:
+      213: 2558429648410210793
+    second: hubble_3
+  - first:
+      213: -5459978836234014255
+    second: hubble_4
+  - first:
+      213: 6145767968883308058
+    second: hubble_5
+  - first:
+      213: 7024350906087133033
+    second: hubble_6
+  - first:
+      213: 3799248957779032970
+    second: hubble_7
+  - first:
+      213: 596238779025245938
+    second: hubble_8
+  - first:
+      213: 2733585869741781799
+    second: hubble_9
+  - first:
+      213: -6288838521982587864
+    second: hubble_10
+  - first:
+      213: 3656549374087499736
+    second: hubble_11
+  - first:
+      213: -3222469663514434153
+    second: hubble_12
+  - first:
+      213: -6401570439138612424
+    second: hubble_13
+  - first:
+      213: -562976916493042419
+    second: hubble_14
+  - first:
+      213: 298303691705478693
+    second: hubble_15
+  - first:
+      213: -8554824243381465421
+    second: hubble_16
+  - first:
+      213: -3033695155382788206
+    second: hubble_17
+  - first:
+      213: 7247820383753715724
+    second: hubble_18
+  - first:
+      213: 807184245303241680
+    second: hubble_19
+  - first:
+      213: 1864877484365781480
+    second: hubble_20
+  - first:
+      213: 139827591311805660
+    second: hubble_21
+  - first:
+      213: 7048477391734537005
+    second: hubble_22
+  - first:
+      213: -4997956990207997271
+    second: hubble_23
+  - first:
+      213: 6999132569992017476
+    second: hubble_24
+  - first:
+      213: -6357557423098284715
+    second: hubble_25
+  - first:
+      213: 4544920025147188094
+    second: hubble_26
+  - first:
+      213: -2010790360427373081
+    second: hubble_27
+  - first:
+      213: -5695698876699007510
+    second: hubble_28
+  - first:
+      213: -1914615488419458643
+    second: hubble_29
+  - first:
+      213: 2161330042000111856
+    second: hubble_30
+  - first:
+      213: 231696421750188899
+    second: hubble_31
+  - first:
+      213: 1517400475116923517
+    second: hubble_32
+  - first:
+      213: 5222081641199281448
+    second: hubble_33
+  - first:
+      213: 184830442478744066
+    second: hubble_34
+  - first:
+      213: 9223038702439773691
+    second: hubble_35
+  - first:
+      213: -6036176855245575236
+    second: hubble_36
+  - first:
+      213: 6573889016888108546
+    second: hubble_37
+  - first:
+      213: -6454683633834532848
+    second: hubble_38
+  - first:
+      213: -1217599021248560184
+    second: hubble_39
+  - first:
+      213: -4185091114384983751
+    second: hubble_40
+  - first:
+      213: 2031400822142033735
+    second: hubble_41
+  - first:
+      213: -3215054093504061607
+    second: hubble_42
+  - first:
+      213: 8926918640339332954
+    second: hubble_43
+  - first:
+      213: 4460681755569742836
+    second: hubble_44
+  - first:
+      213: -1777233819796695266
+    second: hubble_45
+  - first:
+      213: 1144561303446174247
+    second: hubble_46
+  - first:
+      213: 2135777621045799515
+    second: hubble_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hubble_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841f230bd5dbe8d0800000000000000
+      internalID: -2815922005362142073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2000
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e837f04984eda570800000000000000
+      internalID: 8479684951560108257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2000
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3ebecc54ac4c360800000000000000
+      internalID: 7189093306329719787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_3
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2000
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e17158c53e518320800000000000000
+      internalID: 2558429648410210793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_4
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2000
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1fe193d224a34b0800000000000000
+      internalID: -5459978836234014255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_5
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2000
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a167341f7672a4550800000000000000
+      internalID: 6145767968883308058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_6
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2000
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4407bee18b7160800000000000000
+      internalID: 7024350906087133033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_7
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2000
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b31bd3cc4a9b430800000000000000
+      internalID: 3799248957779032970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6cc11b204464800800000000000000
+      internalID: 596238779025245938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1600
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7237cf88dd5afe520800000000000000
+      internalID: 2733585869741781799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_10
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1600
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c6f671fae89b8a0800000000000000
+      internalID: -6288838521982587864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_11
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1600
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df8922584caeb230800000000000000
+      internalID: 3656549374087499736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_12
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1600
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795efb61aec7743d0800000000000000
+      internalID: -3222469663514434153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_13
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1600
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b60824a9d0927a0800000000000000
+      internalID: -6401570439138612424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_14
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1600
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dffab2a77ef28f0800000000000000
+      internalID: -562976916493042419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_15
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1600
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eea4b80a9c32400800000000000000
+      internalID: 298303691705478693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be09511da8274980800000000000000
+      internalID: -8554824243381465421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1200
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fd592545626e5d0800000000000000
+      internalID: -3033695155382788206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1200
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00c9790d3e659460800000000000000
+      internalID: 7247820383753715724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_19
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1200
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db67916bc1b33b00800000000000000
+      internalID: 807184245303241680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_20
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1200
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91f35013061e910800000000000000
+      internalID: 1864877484365781480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_21
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1200
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc40f51474c0f100800000000000000
+      internalID: 139827591311805660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_22
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1200
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b75b5e7d831d160800000000000000
+      internalID: 7048477391734537005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_23
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1200
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac8f30990b3aab0800000000000000
+      internalID: -4997956990207997271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446bd3a4df9e12160800000000000000
+      internalID: 6999132569992017476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 800
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555341d153b65c7a0800000000000000
+      internalID: -6357557423098284715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_26
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 800
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73257fceacc21f30800000000000000
+      internalID: 4544920025147188094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_27
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 800
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed52f022dc3814e0800000000000000
+      internalID: -2010790360427373081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_28
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 800
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5a3ca7c00d4f0b0800000000000000
+      internalID: -5695698876699007510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_29
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 800
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da11c4b7b5bed65e0800000000000000
+      internalID: -1914615488419458643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_30
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 800
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8fbc3d8369efd10800000000000000
+      internalID: 2161330042000111856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_31
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 800
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b26220ba6273300800000000000000
+      internalID: 231696421750188899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6a5d41b3ee0510800000000000000
+      internalID: 1517400475116923517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 400
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825a5cbb59f887840800000000000000
+      internalID: 5222081641199281448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_34
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 400
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202bf93ee46a09200800000000000000
+      internalID: 184830442478744066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_35
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 400
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf53a9885d0deff70800000000000000
+      internalID: 9223038702439773691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_36
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 400
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb27a591213b3ca0800000000000000
+      internalID: -6036176855245575236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_37
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 400
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206257c1b352b3b50800000000000000
+      internalID: 6573889016888108546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_38
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 400
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e3c3fe6b5c66a0800000000000000
+      internalID: -6454683633834532848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_39
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 400
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3cd9b24283a1fe0800000000000000
+      internalID: -1217599021248560184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93970761ec19be5c0800000000000000
+      internalID: -4185091114384983751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f5630f84cf03c10800000000000000
+      internalID: 2031400822142033735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_42
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f56070655d163d0800000000000000
+      internalID: -3215054093504061607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_43
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f2d30e439c2eb70800000000000000
+      internalID: 8926918640339332954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_44
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3ecc84c6687ed30800000000000000
+      internalID: 4460681755569742836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_45
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171530d14ff557e0800000000000000
+      internalID: -1777233819796695266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_46
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a319bf07c42ef00800000000000000
+      internalID: 1144561303446174247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hubble_47
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 0
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae9a53e6ec3ad10800000000000000
+      internalID: 2135777621045799515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
