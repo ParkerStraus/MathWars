@@ -8,6 +8,7 @@ public class AutoScroll : MonoBehaviour
     [SerializeField] private float ScrollSpeed;
     [SerializeField] private float Distance;
     [SerializeField] private bool BackupActive;
+    [SerializeField] private bool Stop = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,12 +18,19 @@ public class AutoScroll : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (!BackupActive)
+        if (Stop == false)
         {
-            transform.position += Vector3.up * ScrollSpeed * Time.deltaTime;
+            if (!BackupActive)
+            {
+                transform.position += Vector3.up * ScrollSpeed * Time.deltaTime;
+            }
         }
     }
 
+    public void StopAutoScroll()
+    {
+        Stop = !Stop;
+    }
 
     public void Backup(float dis)
     {

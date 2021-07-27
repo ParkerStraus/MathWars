@@ -6,7 +6,9 @@ using TMPro;
 public class GameHandler : MonoBehaviour
 {
     [SerializeField] private string CurrentNum;
+    [SerializeField] private bool Negative;
     [SerializeField] private TextMeshProUGUI numText;
+    [SerializeField] private TextMeshProUGUI ScoreUI;
     [SerializeField] private bool numberReady = false;
     [SerializeField] private int Killcount = 0;
     [SerializeField] private int Score;
@@ -16,6 +18,7 @@ public class GameHandler : MonoBehaviour
     void Start()
     {
         Paused = gameObject.GetComponent<PauseScript>().GetStatus();
+        UpdateScore();
     }
 
     // Update is called once per frame
@@ -101,6 +104,12 @@ public class GameHandler : MonoBehaviour
     {
         Killcount++;
         Score += points;
+        UpdateScore();
+    }
+
+    private void UpdateScore()
+    {
+        ScoreUI.text = "Score: " + Score;
     }
 
     public bool CheckNumberReady()

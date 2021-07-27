@@ -33,6 +33,7 @@ public class PauseScript : MonoBehaviour
 
     public void PauseHandler()
     {
+        //check if game is finished
         if (gh.GetComponent<GameHandler>().AmIFinished() == false)
         {
             Paused = !Paused;
@@ -50,6 +51,7 @@ public class PauseScript : MonoBehaviour
 
     void Pause()
     {
+        //pause the game
         gh.GetComponent<GameHandler>().SetPaused(true);
         Time.timeScale = 0;
         PauseUiObject.SetActive(true);
