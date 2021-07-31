@@ -121,6 +121,8 @@ public class GameHandler : MonoBehaviour
     {
         GameFinished = true;
         Debug.Log("You fiddled the riddle");
+        GetComponent<AutoScroll>().StopAutoScroll();
+        GetComponent<PauseUI>().SetUI(2);
     }
 
     public void SetPaused(bool pause)
