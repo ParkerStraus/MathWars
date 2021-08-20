@@ -7,6 +7,6 @@ using UnityEngine;
 public class PointAndClickInventoryItem : ScriptableObject
 {
     public string Name;
-    public Texture Texture;
+    public Sprite Texture;
 
 }
