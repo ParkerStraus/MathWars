@@ -1,5 +1,5 @@
 # Math Wars
-##A Game By Parker Straus
+## A Game By Parker Straus
 
 You are flying through space. The only thing stopping you from getting to where you going is a bunch of random asteroids. There's only one way to stop them: ARITHMETIC. Using the power of basic math problems, shoot the asteroid out of space! 
 
