@@ -167,6 +167,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -175,9 +177,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -198,9 +200,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -1248,6 +1253,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      hubble_47: 2135777621045799515
+      hubble_36: -6036176855245575236
+      hubble_30: 2161330042000111856
+      hubble_44: 4460681755569742836
+      hubble_0: -2815922005362142073
+      hubble_7: 3799248957779032970
+      hubble_23: -4997956990207997271
+      hubble_18: 7247820383753715724
+      hubble_12: -3222469663514434153
+      hubble_10: -6288838521982587864
+      hubble_42: -3215054093504061607
+      hubble_3: 2558429648410210793
+      hubble_13: -6401570439138612424
+      hubble_2: 7189093306329719787
+      hubble_17: -3033695155382788206
+      hubble_33: 5222081641199281448
+      hubble_38: -6454683633834532848
+      hubble_34: 184830442478744066
+      hubble_19: 807184245303241680
+      hubble_28: -5695698876699007510
+      hubble_43: 8926918640339332954
+      hubble_21: 139827591311805660
+      hubble_31: 231696421750188899
+      hubble_20: 1864877484365781480
+      hubble_16: -8554824243381465421
+      hubble_26: 4544920025147188094
+      hubble_5: 6145767968883308058
+      hubble_24: 6999132569992017476
+      hubble_25: -6357557423098284715
+      hubble_14: -562976916493042419
+      hubble_9: 2733585869741781799
+      hubble_32: 1517400475116923517
+      hubble_39: -1217599021248560184
+      hubble_41: 2031400822142033735
+      hubble_15: 298303691705478693
+      hubble_37: 6573889016888108546
+      hubble_8: 596238779025245938
+      hubble_6: 7024350906087133033
+      hubble_11: 3656549374087499736
+      hubble_27: -2010790360427373081
+      hubble_29: -1914615488419458643
+      hubble_46: 1144561303446174247
+      hubble_40: -4185091114384983751
+      hubble_22: 7048477391734537005
+      hubble_45: -1777233819796695266
+      hubble_35: 9223038702439773691
+      hubble_4: -5459978836234014255
+      hubble_1: 8479684951560108257
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

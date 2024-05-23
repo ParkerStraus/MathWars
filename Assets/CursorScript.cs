@@ -1,12 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class CursorScript : MonoBehaviour
 {
     public Texture2D cursorIdle;
     public Texture2D cursorHover;
-
+    public bool InGame;
     
 
     private void Start()
@@ -17,16 +18,24 @@ public class CursorScript : MonoBehaviour
 
     private void Update()
     {
-        Ray ray  = Camera.main.ScreenPointToRay(Input.mousePosition);
-        RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction, Mathf.Infinity);
-        if (hit)
+        if (InGame)
+        {
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction, Mathf.Infinity);
+            if (hit)
+            {
+                OnMouseEnter();
+            }
+            else
+            {
+                OnMouseExit();
+            }
+        }
+        else if (EventSystem.current.IsPointerOverGameObject())
         {
             OnMouseEnter();
         }
-        else
-        {
-            OnMouseExit();
-        }
+
     }
 
     void OnMouseEnter()

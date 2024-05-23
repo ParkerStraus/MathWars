@@ -149,6 +149,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -157,9 +159,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -180,9 +182,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -663,6 +668,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      starcruiser_10: 8649575914128746382
+      starcruiser_5: -7400198325281321506
+      starcruiser_18: -5601432642658460484
+      starcruiser_3: 2454623136916542296
+      starcruiser_16: 3190153903898448710
+      starcruiser_2: -7456032599225802681
+      starcruiser_11: 105478937232443786
+      starcruiser_9: 1265050644176619993
+      starcruiser_17: -9134253247881793836
+      starcruiser_13: -1290702167342527136
+      starcruiser_14: -6024035881781966074
+      starcruiser_12: -7706016508651068638
+      starcruiser_0: 1029963742643083830
+      starcruiser_1: 4694664638180569467
+      starcruiser_4: -2451834545143895449
+      starcruiser_6: -1869439664577355675
+      starcruiser_15: 8328380168316053312
+      starcruiser_19: -1904550084741524320
+      starcruiser_20: 5051674996424280606
+      starcruiser_7: 5475601091550270482
+      starcruiser_8: -1903842003912388510
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
